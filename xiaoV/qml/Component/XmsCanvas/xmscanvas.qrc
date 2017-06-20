@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>3rd/three.js</file>
+        <file>3rd/ThreeJSLoader.js</file>
+        <file>3rd/threexdragcontrols.js</file>
+        <file>3rd/threexdrawitem.js</file>
+        <file>3rd/threexdrawitemnew.js</file>
+        <file>3rd/threexorbitcontrols.js</file>
+        <file>3rd/xmscanvas3dlineeditor.js</file>
+        <file>XmsAlgCanvas.qml</file>
+        <file>XmsCanvas3DLineEditor.qml</file>
+        <file>XmsControlEventSource.qml</file>
+        <file>XmsCloudCanvas.qml</file>
+        <file>3rd/xmscloudcanvas.js</file>
+        <file>3rd/XmsCanvas_Chart.js</file>
+        <file>XmsCanvas_Chart.qml</file>
+        <file>3rd/XmsCanvas_Chart_Service.js</file>
+        <file>models/scene-animation.json</file>
+        <file>textures/land_ocean_ice_cloud_2048.jpg</file>
+        <file>3rd/d3.js</file>
+    </qresource>
+    <qresource prefix="/images"/>
+</RCC>

@@ -1,0 +1,60 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Component/UIConstants.js</file>
+        <file>qml/Component/IconFontLoader.qml</file>
+        <file>qml/Component/TextFontLoader.qml</file>
+        <file>qml/Component/XmsText.qml</file>
+        <file>qml/Component/XmsButton.qml</file>
+        <file>qml/mainV5.qml</file>
+        <file>qml/PagesV5/PageManager.qml</file>
+        <file>qml/PagesV5/PageBase.qml</file>
+        <file>qml/PagesV5/PageBaseCom/BackupButton.qml</file>
+        <file>qml/PagesV5/PageLoad.qml</file>
+        <file>qml/PagesV5/PageControl.qml</file>
+        <file>qml/PagesV5/PagePassword.qml</file>
+        <file>qml/Component/XmsPwdCom/NumButton.qml</file>
+        <file>qml/Component/XmsPwdCom/NumListModel.qml</file>
+        <file>qml/Component/XmsPwdCom/XmsPwdCtrl.qml</file>
+        <file>qml/PagesV5/PageShowCase.qml</file>
+        <file>qml/Component/XmsIcon.qml</file>
+        <file>qml/PagesV5/PageShowCaseCom/ShowPlayer.qml</file>
+        <file>qml/PagesV5/PageMain.qml</file>
+        <file>qml/Component/XmsImageButton.qml</file>
+        <file>qml/PagesV5/PageCruise.qml</file>
+        <file>qml/PagesV5/PageCruiseTest.qml</file>
+        <file>qml/Models/RobotWheelModel.qml</file>
+        <file>qml/Component/XmsLoadingCom.qml</file>
+        <file>qml/Settings/Setting.js</file>
+        <file>qml/Models/RobotWheelModel.js</file>
+        <file>qml/PagesV5/PageConfig.qml</file>
+        <file>qml/Component/XmsPopup.qml</file>
+        <file>qml/Component/XmsDialog.qml</file>
+        <file>qml/Component/XmsPaperShadow.qml</file>
+        <file>qml/Component/UIConstants.qml</file>
+        <file>qml/Models/RobotWheelStep.qml</file>
+        <file>qml/Models/RobotWheel/RobotWheelBehavior.qml</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>qml/PagesV5/PageImages/base/background.png</file>
+        <file>qml/PagesV5/PageImages/base/btn_ret_on.png</file>
+        <file>qml/PagesV5/PageImages/base/btn_ret_pressed.png</file>
+        <file>qml/PagesV5/PageImages/showcase/btn_last.png</file>
+        <file>qml/PagesV5/PageImages/showcase/btn_next.png</file>
+        <file>qml/PagesV5/PageImages/base/loading_bg.jpg</file>
+        <file>qml/PagesV5/PageImages/main/btn_mode_1.png</file>
+        <file>qml/PagesV5/PageImages/main/btn_mode_2.png</file>
+        <file>qml/PagesV5/PageImages/load/loading_bg_back.png</file>
+        <file>qml/PagesV5/PageImages/load/loading_bg_logo.png</file>
+        <file>qml/PagesV5/PageImages/load/loading_bg_name.png</file>
+        <file>qml/PagesV5/PageImages/main/icon_logo.png</file>
+        <file>qml/PagesV5/PageImages/load/p_bg.png</file>
+        <file>qml/PagesV5/PageImages/load/p_fg.png</file>
+        <file>qml/PagesV5/PageImages/main/shutdown_22.png</file>
+        <file>qml/PagesV5/PageImages/main/config_1.png</file>
+        <file>qml/PagesV5/PageImages/main/config_2.png</file>
+    </qresource>
+    <qresource prefix="/font">
+        <file>qml/Fonts/xmsicofont.ttf</file>
+        <file>qml/Fonts/OpenSans-Light.ttf</file>
+    </qresource>
+</RCC>

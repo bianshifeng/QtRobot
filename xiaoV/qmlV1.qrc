@@ -1,0 +1,52 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/Pages/PageLoading.qml</file>
+        <file>qml/Pages/PageLoadingCom/RobotEye.qml</file>
+        <file>qml/Pages/PageLoadingCom/Robot.qml</file>
+        <file>qml/Pages/PageTalk.qml</file>
+        <file>qml/Component/UIConstants.js</file>
+        <file>qml/Component/IconFontLoader.qml</file>
+        <file>qml/Component/TextFontLoader.qml</file>
+        <file>qml/Pages/PageTalkCom/TalkerButton.qml</file>
+        <file>qml/Pages/PageMain.qml</file>
+        <file>qml/Pages/PageMainCom/MainNavButton.qml</file>
+        <file>qml/Pages/PagePassword.qml</file>
+        <file>qml/PageManager.qml</file>
+        <file>qml/Pages/PageBaseCom/BackupButton.qml</file>
+        <file>qml/Pages/PageBase.qml</file>
+        <file>qml/Pages/PagePwdCom/NumButton.qml</file>
+        <file>qml/Pages/PagePwdCom/NumListModel.qml</file>
+        <file>qml/Pages/PageConfig.qml</file>
+        <file>qml/Pages/PageShake.qml</file>
+        <file>qml/Component/XmsText.qml</file>
+        <file>qml/Component/XmsButton.qml</file>
+        <file>qml/Pages/PageCamera.qml</file>
+        <file>qml/Pages/PageEditor.qml</file>
+        <file>qml/Images/zhaopai.wav</file>
+        <file>qml/mainV5.qml</file>
+        <file>qml/Pages/PageManager.qml</file>
+        <file>qml/PageV5/PageManager.qml</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>qml/Images/page/loading/loading_bg.jpg</file>
+        <file>qml/Images/page/loading/loading_pro_b.png</file>
+        <file>qml/Images/page/loading/loading_pro_f.png</file>
+        <file>qml/Images/page/talkpage/btn_on_off_on.png</file>
+        <file>qml/Images/page/talkpage/btn_on_off_pressed.png</file>
+        <file>qml/Images/page/mainpage/main_bg.jpg</file>
+        <file>qml/Images/page/mainpage/main_stand.png</file>
+        <file>qml/Images/page/mainpage/main_yyy.png</file>
+        <file>qml/Images/page/mainpage/main_ziding.png</file>
+        <file>qml/Images/page/base/btn_ret_on.png</file>
+        <file>qml/Images/page/base/btn_ret_pressed.png</file>
+        <file>qml/Images/page/mainpage/main_config_1.png</file>
+        <file>qml/Images/page/mainpage/main_config_2.png</file>
+        <file>qml/Images/page/mainpage/main_shutdown_1.png</file>
+        <file>qml/Images/page/mainpage/main_shutdown_2.png</file>
+    </qresource>
+    <qresource prefix="/font">
+        <file>qml/Fonts/xmsicofont.ttf</file>
+        <file>qml/Fonts/OpenSans-Light.ttf</file>
+    </qresource>
+</RCC>
